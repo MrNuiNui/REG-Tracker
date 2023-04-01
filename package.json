@@ -1,0 +1,19 @@
+{
+  "name": "reg-bot",
+  "version": "1.0.0",
+  "description": "BOT REG",
+  "main": "index.js",
+  "scripts": {
+    "test": "!test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "yes"
+  },
+  "author": "NuiiNuii",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "node-fetch": "^3.3.1"
+  }
+}
